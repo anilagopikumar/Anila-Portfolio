@@ -2,6 +2,7 @@ import styles from './ProjectsStyles.module.css';
 import CRUD from '../../assets/CRUD.jpg';
 import SendEmail from '../../assets/SendEmail.png'; 
 import ProjectCard from '../../common/ProjectCard';
+import Portfolio from '../../assets/Portfolio.jpg'
 
 function Projects() {
   return (
@@ -19,6 +20,12 @@ function Projects() {
           link="https://github.com/anilagopikumar/SendEmail"
           h3="Node.js Project"
           p="Study case"
+        />
+        <ProjectCard
+          src={Portfolio}
+          link="https://github.com/anilagopikumar/Anila-Portfolio"
+          h3="Anila's Portfolio"
+          p="React.js & Vite.js Project"
         />
       </div>
     </section>
