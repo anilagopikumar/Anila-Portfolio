@@ -68,7 +68,8 @@
 }
 
 .description {
-    max-width: 25ch;
+    max-width: 30ch;
+    justify-content: center;
 }
 
 .info {
