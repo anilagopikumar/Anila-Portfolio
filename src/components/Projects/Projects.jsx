@@ -11,13 +11,13 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={CRUD}
-          link="https://github.com/anilagopikumar/angular8crud"
+          link="https://github.com/anilagopikumar/angular8crud.git"
           h3="Angular Project"
           p="CRUD Operations"
         />
         <ProjectCard
           src={SendEmail}
-          link="https://github.com/anilagopikumar/SendEmail"
+          link="https://github.com/anilagopikumar/SendEmail.git"
           h3="Node.js Project"
           p="Study case"
         />
