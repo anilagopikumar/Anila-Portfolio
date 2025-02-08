@@ -59,7 +59,7 @@ function Hero() {
         </span>
         <p className={styles.description}>
           With a passion for developing modern Web, Android and iOS applications for commercial
-          businesses. Exploring all the horizons.
+          businesses. Venturing into every opportunity in both professional and personal aspects of life..
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
