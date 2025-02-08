@@ -74,6 +74,20 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="B.E - IT - SNU, India" />
         <SkillList src={checkMarkIcon} skill="12Th - BIE, India" />
         <SkillList src={checkMarkIcon} skill="10Th - BSET, India" /> 
+      </div>
+        <br />      
+    <br/>
+    <h1 className="sectionTitle">Interesting Activities</h1>
+    <div className={styles.skillList}>
+        <SkillList src={checkMarkIcon} skill="Badminton" />
+        <SkillList src={checkMarkIcon} skill="Trekking" />
+        <SkillList src={checkMarkIcon} skill="Scuba Diving" /> 
+        <SkillList src={checkMarkIcon} skill="Painting" /> 
+        <SkillList src={checkMarkIcon} skill="Yoga" /> 
+        <SkillList src={checkMarkIcon} skill="Cooking" /> 
+        <SkillList src={checkMarkIcon} skill="Travelling" /> 
+        <SkillList src={checkMarkIcon} skill="Reading Books" />
+        <SkillList src={checkMarkIcon} skill="Coding" /> 
     </div>
     </section>
   );
