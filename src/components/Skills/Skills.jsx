@@ -75,8 +75,10 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="12Th - BIE, India" />
         <SkillList src={checkMarkIcon} skill="10Th - BSET, India" /> 
       </div>
-        <br />      
-    <br/>
+    <hr/>
+    <br />      
+    <br />
+      
     <h1 className="sectionTitle">Interesting Activities</h1>
     <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="Badminton" />
