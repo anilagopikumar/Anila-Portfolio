@@ -69,7 +69,6 @@
 
 .description {
     max-width: 30ch;
-    justify-content: center;
 }
 
 .info {
@@ -82,7 +81,7 @@
     .container {
         flex-direction: row-reverse;
         align-items: center;
-        justify-content: space-between;
+        justify-content: space-evenly;
         .hero {
             max-width: 350px;
             width: 350px;
