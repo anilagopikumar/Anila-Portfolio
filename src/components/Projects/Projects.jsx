@@ -23,7 +23,7 @@ function Projects() {
         />
         <ProjectCard
           src={Portfolio}
-          link="https://github.com/anilagopikumar/Anila-Portfolio"
+          link="https://github.com/anilagopikumar/Anila-Portfolio.git"
           h3="Anila's Portfolio"
           p="React.js & Vite.js Project"
         />
