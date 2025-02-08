@@ -67,9 +67,6 @@
     cursor: pointer;
 }
 
-.description {
-    max-width: 30ch;
-}
 
 .info {
     display: flex;

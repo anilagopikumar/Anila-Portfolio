@@ -27,6 +27,10 @@ function Projects() {
           h3="Anila's Portfolio"
           p="React.js & Vite.js Project"
         />
+          <p className={styles.description}>
+                  <center>With a passion for developing modern Web, Android and iOS applications for commercial
+                  businesses. Venturing into every opportunity in both professional and personal aspects of life.. </center>
+                </p>
       </div>
     </section>
   );

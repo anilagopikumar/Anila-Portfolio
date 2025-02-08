@@ -57,10 +57,6 @@ function Hero() {
             <img src={instagramIcon} alt="Linkedin icon" />
           </a>
         </span>
-        <p className={styles.description}>
-          <center>With a passion for developing modern Web, Android and iOS applications for commercial
-          businesses. Venturing into every opportunity in both professional and personal aspects of life.. </center>
-        </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
         </a>
