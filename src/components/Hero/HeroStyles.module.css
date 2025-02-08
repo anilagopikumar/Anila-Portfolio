@@ -5,7 +5,7 @@
     gap: 20px;
     text-align: center;
     height: 100dvh;
-    min-height: 650px;
+    min-height: 500px;
 
     .hero {
         max-width: 200px;
