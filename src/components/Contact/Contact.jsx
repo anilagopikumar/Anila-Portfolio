@@ -33,12 +33,12 @@ return (
           </a>
           <a href="https://www.instagram.com/anila_gopikumar" target="_blank">
             <img src={instagramIcon} alt="Linkedin icon" />
-          </a>
+        </a>
       </span>
-      <p>
+              <p>
         &copy; 2024 Anila Desha. All rights reserved.
-      </p>
-      </div>
+      </p> 
+  </div>
     </section>
   );
 }
