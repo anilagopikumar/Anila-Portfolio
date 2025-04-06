@@ -39,8 +39,6 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="Data Structures" />
         <SkillList src={checkMarkIcon} skill="Algorithms" />
         <SkillList src={checkMarkIcon} skill="Data Science/AI" />
-        <SkillList src={checkMarkIcon} skill="Machine Learning/Deep Learning" />
-        <SkillList src={checkMarkIcon} skill="NLP/Reinforcemnt Learning" />
     </div>
       <hr />
       <div className={styles.skillList}>
@@ -76,12 +74,9 @@ function Skills() {
     <h1 className="sectionTitle">Interesting Activities</h1>
     <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="Playing Badminton" />
-        <SkillList src={checkMarkIcon} skill="Travelling" /> 
+        <SkillList src={checkMarkIcon} skill="Travelling/Adventurous Activities" /> 
         <SkillList src={checkMarkIcon} skill="Painting" /> 
-        <SkillList src={checkMarkIcon} skill="Yoga" /> 
-        <SkillList src={checkMarkIcon} skill="Cooking" /> 
-        <SkillList src={checkMarkIcon} skill="Coding" /> 
-        <SkillList src={checkMarkIcon} skill="Reading Books/Adventurous Activities" />
+        <SkillList src={checkMarkIcon} skill="Yoga/Cooking/Reading Books" /> 
     </div>
     </section>
   );
