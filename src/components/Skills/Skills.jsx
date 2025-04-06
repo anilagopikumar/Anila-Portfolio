@@ -63,7 +63,7 @@ function Skills() {
     <br/>
     <h1 className="sectionTitle">Eductaion</h1>
     <div className={styles.skillList}>
-        <SkillList src={checkMarkIcon} skill="B.E - IT - SNU, India" />
+        <SkillList src={checkMarkIcon} skill="Bachelor of Eng - IT - SNU, India" />
         <SkillList src={checkMarkIcon} skill="12Th - BIE, India" />
         <SkillList src={checkMarkIcon} skill="10Th - BSET, India" /> 
       </div>
