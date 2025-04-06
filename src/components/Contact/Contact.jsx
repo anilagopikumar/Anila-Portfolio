@@ -34,9 +34,6 @@ return (
           <a href="https://www.instagram.com/anila_gopikumar" target="_blank">
             <img src={instagramIcon} alt="Linkedin icon" />
         </a>
-           <p>
-        &copy; 2024 Anila Desha. All rights reserved.
-      </p> 
       </span>
   </div>
   </section>
