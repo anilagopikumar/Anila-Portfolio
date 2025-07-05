@@ -1,5 +1,5 @@
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/Anila.png';
+import heroImg from '../../assets/Anila.jpeg';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import CV from '../../assets/CV.pdf';
