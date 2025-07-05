@@ -81,6 +81,7 @@ function Skills() {
       <br />
       <br />
       <br />
+      <br/>
     </section>
   );
 }
