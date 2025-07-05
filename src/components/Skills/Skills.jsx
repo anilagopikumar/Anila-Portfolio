@@ -75,7 +75,6 @@ function Skills() {
     <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="Travelling" /> 
         <SkillList src={checkMarkIcon} skill="Adventurous Sports" />
-        <SkillList src={checkMarkIcon} skill="Painting" /> 
         <SkillList src={checkMarkIcon} skill="Cooking" /> 
         <SkillList src={checkMarkIcon} skill="Reading Books" /> 
         <SkillList src={checkMarkIcon} skill="Shopping" /> 
