@@ -80,7 +80,7 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="Yoga" />
         <SkillList src={checkMarkIcon} skill="Cooking" /> 
         <SkillList src={checkMarkIcon} skill="Reading Books" /> 
-        <SkillList src={checkMarkIcon} skill="Shopping, following the recent trends" /> 
+        <SkillList src={checkMarkIcon} skill="Shopping" /> 
     </div>
     </section>
   );
