@@ -36,7 +36,7 @@ return (
         </a>
       </span>
       <p>
-        &copy; 2025 Anila Desha. All rights reserved.
+        © Anila Desha • 2025
       </p> 
   </div>
   </section>
