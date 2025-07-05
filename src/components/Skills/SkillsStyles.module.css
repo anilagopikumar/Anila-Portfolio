@@ -34,7 +34,7 @@ hr {
 @media (width >=800px) {
     .skillList {
         max-width: fit-content;
-        gap: 40px;
+        gap: 41px;
 
         p {
             font-size: 20px;
