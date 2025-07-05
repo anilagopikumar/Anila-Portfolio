@@ -80,6 +80,7 @@ function Skills() {
       </div>
       <br />
       <br />
+      <br />
     </section>
   );
 }
