@@ -71,7 +71,7 @@ function Skills() {
     <br />      
     <br />
       
-    <h1 className="sectionTitle">Interesting Activities</h1>
+    <h1 className="sectionTitle">Interests</h1>
     <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="Travelling" /> 
         <SkillList src={checkMarkIcon} skill="Adventurous Sports" />
