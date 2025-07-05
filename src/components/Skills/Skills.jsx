@@ -79,6 +79,7 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="Shopping" /> 
       </div>
       <br />
+      <br />
     </section>
   );
 }
